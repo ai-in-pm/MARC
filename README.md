@@ -3,6 +3,8 @@
 ### Overview
 This Multi-Agent Research Collaborator demonstrates a flexible and extensible framework for building collaborative agent systems inspired by research in Large Language Model (LLM) multi-agent interactions.
 
+This Repository was inspired by ChatDev, to learn more about ChatDev, visit the repository https://github.com/OpenBMB/ChatDev
+
 ### Features
 - Base `Agent` class with core communication and learning capabilities
 - Specialized agent types:
